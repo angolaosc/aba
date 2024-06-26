@@ -1,0 +1,26 @@
+name: Linting and formatting
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-and-format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          npm install -g markdownlint-cli prettier
+
+      - name: Format README markdown file
+        run: prettier --write README.md
+
+      - name: Lint README markdown file
+        run: markdownlint README.md

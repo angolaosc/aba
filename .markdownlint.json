@@ -1,0 +1,24 @@
+{
+    "default": true,
+    "MD024": false,
+    "MD033": false,
+    "MD041": false,
+    "MD013": {
+      "line_length": 150,
+      "tables": true,
+      "code_blocks": false
+    },
+    "MD044": {
+      "names": false,
+      "maximum_length": 100
+    },
+    "MD025": {
+      "level": 2,
+      "front_matter_title": ""
+    },
+    "no-trailing-spaces": true,
+    "no-multiple-blanks": true,
+    "no-extra-punctuation": true,
+    "no-hard-tabs": true
+  }
+  
