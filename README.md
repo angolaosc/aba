@@ -1,14 +1,15 @@
 # AOSC - ABA
 
-aba (Awesome Blogs by Angolans) a curated list of tech Blogs, YouTube Channels, Newsletter and many more, made by angolan developers and enthusiasts. The term "aba(in portuguese)", is literally translated to 'tab' in browsers, making it a fitting name for our project.
+aba (Awesome Blogs by Angolans) a curated list of tech Blogs, YouTube Channels, Newsletter and many more, made by angolan developers and enthusiasts.
 
-The list is divided into categories, and each category is sorted alphabetically. The list is updated regularly, and we welcome contributions to the list.
+The term "aba(in portuguese)", is literally translated to 'tab' in browsers, making it a fitting name for our project.
+
+The list is divided into categories, and each category is sorted alphabetically.
+The list is updated regularly, and we welcome contributions to the list.
 
 ## Adding a new 'aba'
 
 To add a new 'aba' to the list, you can either open a pull request or create an issue with the following information:
-
-### Format
 
 ```markdown
 | Name | Author | Topics separated by commas | [Link](https://example.com) |
@@ -93,6 +94,12 @@ To add a new 'aba' to the list, you can either open a pull request or create an 
 
 ## License
 
+---------------|------------------------------|
+
+### Forums
+
+## License
+
 ABA is licensed under the [Apache License](./LICENSE), Version 2.0
 
 ---
@@ -103,4 +110,5 @@ aba is a <a href="http://github.com/angolasc">Angola Open-source Community</a> o
 
 ## Code of Conduct (CoC)
 
-Please note that ABA follows the [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main/CODE_OF_CONDUCT.md). By participating in this project, you agree to follow its terms.
+Please note that ABA follows the [AOSC Code of Conduct](https://github.com/angolaosc/.github/blob/main/CODE_OF_CONDUCT.md).
+By participating in this project, you agree to follow its terms.
