@@ -9,72 +9,90 @@ The list is divided into categories, and each category is sorted alphabetically.
 To add a new 'aba' to the list, you can either open a pull request or create an issue with the following information:
 
 ### Format
+
 ```markdown
 | Name | Author | Topics separated by commas | [Link](https://example.com) |
 ```
+
 ## Abas
+
 ### Table of Contents
+
 - [Blogs](#blogs)
   - [A](#a)
   - [B](#b)
   - [C](#c)
 - [YouTube Channels](#youtube-channels)
-    - [A](#a-1)
-    - [B](#b-1)
+  - [A](#a-1)
+  - [B](#b-1)
 - [Newsletters](#newsletters)
-    - [A](#a-2)
-    - [B](#b-2)
+  - [A](#a-2)
+  - [B](#b-2)
 - [Podcasts](#podcasts)
-    - [A](#a-3)
-    - [B](#b-3)
+  - [A](#a-3)
+  - [B](#b-3)
 - [Forums](#forums)
-    
+
 ### Blogs
+
 #### A
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
-|AOSC Blog  | @angolaosc   | Open Source, Linux, Community | [Link](https://aosc.io/blog) |
+
+| Name      | Author     | Topics                        | Link                         |
+| --------- | ---------- | ----------------------------- | ---------------------------- |
+| AOSC Blog | @angolaosc | Open Source, Linux, Community | [Link](https://aosc.io/blog) |
 
 #### B
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 #### C
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 ### YouTube Channels
+
 #### A
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
-|AOSC Channel| @angolaosc   | Open Source, Linux, Community | [Link](https://www.youtube.com/channel/UC9Q6Jj5Z2Y1J1J5J2Z9J9JQ) |
-|Antonio Developer | @antoniodeveloper | Web Development, JavaScript, React | [Link](https://antoniodeveloper.com) |
+
+| Name              | Author            | Topics                             | Link                                                             |
+| ----------------- | ----------------- | ---------------------------------- | ---------------------------------------------------------------- |
+| AOSC Channel      | @angolaosc        | Open Source, Linux, Community      | [Link](https://www.youtube.com/channel/UC9Q6Jj5Z2Y1J1J5J2Z9J9JQ) |
+| Antonio Developer | @antoniodeveloper | Web Development, JavaScript, React | [Link](https://antoniodeveloper.com)                             |
 
 #### B
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 ### Newsletters
+
 #### A
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 #### B
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 ### Podcasts
+
 #### A
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 #### B
-| Name      | Author       | Topics                        | Link                         |
-|-----------|--------------|-------------------------------|------------------------------|
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 ### Forums
 
 ## License
+
 ABA is licensed under the [Apache License](./LICENSE), Version 2.0
 
 ---
