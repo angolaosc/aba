@@ -38,9 +38,9 @@ To add a new 'aba' to the list, you can either open a pull request or create an 
 
 #### A
 
-| Name      | Author     | Topics                        | Link                         |
-| --------- | ---------- | ----------------------------- | ---------------------------- |
-| AOSC Blog | @angolaosc | Open Source, Linux, Community | [Link](https://aosc.io/blog) |
+| Name      | Author     | Topics                        | Link                             |
+| --------- | ---------- | ----------------------------- | -------------------------------- |
+| AOSC Blog | @angolaosc | Open Source, Linux, Community | [Link](https://blog.aosc.social) |
 
 #### B
 
@@ -92,19 +92,16 @@ To add a new 'aba' to the list, you can either open a pull request or create an 
 
 ### Forums
 
-## License
-
----------------|------------------------------|
-
-### Forums
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
 
 ## License
 
-ABA is licensed under the [Apache License](./LICENSE), Version 2.0
+ABA is licensed under the [Apache License](./LICENSE), Version 2.0.
 
 ---
 
-aba is a <a href="http://github.com/angolasc">Angola Open-source Community</a> open project.
+aba is a <a href="http://github.com/angolaosc">Angola Open-source Community</a> open project.
 
 ![Angola Open-source Community](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)
 
