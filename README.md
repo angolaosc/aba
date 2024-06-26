@@ -9,11 +9,7 @@ The list is updated regularly, and we welcome contributions to the list.
 
 ## Adding a new 'aba'
 
-To add a new 'aba' to the list, you can either open a pull request or create an issue with the following information:
-
-```markdown
-| Name | Author | Topics separated by commas | [Link](https://example.com) |
-```
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribute.
 
 ## Abas
 

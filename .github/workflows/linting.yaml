@@ -20,7 +20,7 @@ jobs:
           npm install -g markdownlint-cli prettier
 
       - name: Format README markdown file
-        run: prettier --write README.md
+        run: prettier --write **/*.md
 
       - name: Lint README markdown file
-        run: markdownlint README.md
+        run: markdownlint **/*.md
