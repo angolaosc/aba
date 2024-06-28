@@ -59,10 +59,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name              | Author                                                 | Topics                                         | Link                                       |
-| ----------------- | ------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------ |
-| AOSC Channel      | [@angolaosc](https://github.com/angolaosc)             | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
-| Antonio Developer | [@antonio-pedro99](https://github.com/antonio-pedro99) | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
+| Name              | Author           | Topics                                         | Link                                       |
+| ----------------- | ---------------- | ---------------------------------------------- | ------------------------------------------ |
+| AOSC Channel      | @angolaosc       | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
+| Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
 
 #### B
 
