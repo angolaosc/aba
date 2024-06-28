@@ -35,9 +35,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name      | Author     | Topics                        | Link                             |
-| --------- | ---------- | ----------------------------- | -------------------------------- |
-| AOSC Blog | @angolaosc | Open Source, Linux, Community | [Link](https://blog.aosc.social) |
+| Name      | Author     | Topics                 | Link                             |
+| --------- | ---------- | ---------------------- | -------------------------------- |
+| AOSC Blog | @angolaosc | Open Source, Community | [Link](https://blog.aosc.social) |
 
 #### B
 
@@ -59,10 +59,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name              | Author            | Topics                             | Link                                                             |
-| ----------------- | ----------------- | ---------------------------------- | ---------------------------------------------------------------- |
-| AOSC Channel      | @angolaosc        | Open Source, Linux, Community      | [Link](https://www.youtube.com/channel/UC9Q6Jj5Z2Y1J1J5J2Z9J9JQ) |
-| Antonio Developer | @antoniodeveloper | Web Development, JavaScript, React | [Link](https://antoniodeveloper.com)                             |
+| Name              | Author           | Topics                                         | Link                                       |
+| ----------------- | ---------------- | ---------------------------------------------- | ------------------------------------------ |
+| AOSC Channel      | @angolaosc       | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
+| Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
 
 #### B
 
