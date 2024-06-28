@@ -53,7 +53,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name            | Author          | Topics                  | Link                               |
 | --------------- | --------------- | ----------------------- | ---------------------------------- |
-| @euotiniel Blog | Otoniel Emanuel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
+| euotiniel blog | Otoniel Emanuel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
 
 ### YouTube Channels
 
