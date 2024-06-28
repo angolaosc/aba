@@ -19,6 +19,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [A](#a)
   - [B](#b)
   - [C](#c)
+  - [O](#c)
 - [YouTube Channels](#youtube-channels)
   - [A](#a-1)
   - [B](#b-1)
@@ -47,6 +48,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name | Author | Topics | Link |
 | ---- | ------ | ------ | ---- |
+
+#### O
+
+| Name            | Author          | Topics                  | Link                               |
+| --------------- | --------------- | ----------------------- | ---------------------------------- |
+| @euotiniel Blog | Otoniel Emanuel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
 
 ### YouTube Channels
 
