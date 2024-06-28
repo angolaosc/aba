@@ -51,9 +51,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### O
 
-| Name            | Author          | Topics                  | Link                               |
-| --------------- | --------------- | ----------------------- | ---------------------------------- |
-| euotiniel blog | Otoniel Emanuel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
+| Name                   | Author     | Topics                  | Link                               |
+| ---------------------- | ---------- | ----------------------- | ---------------------------------- |
+| Otoniel Emanuel - blog | @euotiniel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
 
 ### YouTube Channels
 
