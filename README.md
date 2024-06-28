@@ -19,10 +19,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [A](#a)
   - [B](#b)
   - [C](#c)
-  - [O](#c)
+  - [O](#o)
+  - [P](#p)
 - [YouTube Channels](#youtube-channels)
   - [A](#a-1)
   - [B](#b-1)
+  - [P](#p-1)
 - [Newsletters](#newsletters)
   - [A](#a-2)
   - [B](#b-2)
@@ -35,9 +37,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name      | Author     | Topics                 | Link                             |
-| --------- | ---------- | ---------------------- | -------------------------------- |
-| AOSC Blog | @angolaosc | Open Source, Community | [Link](https://blog.aosc.social) |
+| Name           | Author     | Topics                                         | Link                             |
+| -------------- | ---------- | ---------------------------------------------- | -------------------------------- |
+| AOSC Blog      | @angolaosc | Open Source, Community                         | [Link](https://blog.aosc.social) |
+| ---            | ---        | ---                                            | ---                              |
+| Alexandre Juca | @AlexJuca  | Systems, Software Development, AI, Open Source | [Link](https://0xffa4.com)       |
 
 #### B
 
@@ -55,6 +59,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | ---------------------- | ---------- | ----------------------- | ---------------------------------- |
 | Otoniel Emanuel - blog | @euotiniel | Software, Front-end, DX | [Link](https://euotiniel.com/blog) |
 
+#### P
+
+| Name           | Author         | Topics          | Link                                 |
+| -------------- | -------------- | --------------- | ------------------------------------ |
+| Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://dev.to/pedromassango) |
+
 ### YouTube Channels
 
 #### A
@@ -68,6 +78,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name | Author | Topics | Link |
 | ---- | ------ | ------ | ---- |
+
+#### P
+
+| Name           | Author         | Topics          | Link                                           |
+| -------------- | -------------- | --------------- | ---------------------------------------------- |
+| Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://www.youtube.com/@pedromassango) |
 
 ### Newsletters
 
