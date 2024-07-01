@@ -53,6 +53,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name | Author | Topics | Link |
 | ---- | ------ | ------ | ---- |
 
+### I
+| Name           | Author         | Topics          | Link                                 |
+| -------------- | -------------- | --------------- | ------------------------------------ |
+| Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter| [Link](https://ildysilva.medium.com/) |
+
 #### O
 
 | Name                   | Author     | Topics                  | Link                               |
@@ -64,6 +69,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name           | Author         | Topics          | Link                                 |
 | -------------- | -------------- | --------------- | ------------------------------------ |
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://dev.to/pedromassango) |
+
 
 ### YouTube Channels
 
@@ -78,6 +84,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name | Author | Topics | Link |
 | ---- | ------ | ------ | ---- |
+
+### I
+| Name           | Author         | Topics          | Link                                 |
+| -------------- | -------------- | --------------- | ------------------------------------ |
+| Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter | [Link](https://www.youtube.com/@ildebertov) |
 
 #### P
 
