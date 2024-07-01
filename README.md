@@ -71,7 +71,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://dev.to/pedromassango) |
 
 
-
 ### YouTube Channels
 
 #### A
