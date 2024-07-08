@@ -82,13 +82,19 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### B
 
-| Name | Author | Topics | Link |
-| ---- | ------ | ------ | ---- |
+| Name          | Author        | Topics | Link                                         |
+| Celson Paixão | @celsonpaixa0 | Mobile | [Link](http://www.youtube.com/@celsonpaixa0) |
 
 ### I
-| Name           | Author         | Topics          | Link                                 |
-| -------------- | -------------- | --------------- | ------------------------------------ |
-| Ildeberto Vasconcelos | @ildysilva | Mobile, Flutter | [Link](https://www.youtube.com/@ildebertov) |
+| Name                  | Author         | Topics          | Link                                 |
+| --------------------- | -------------- | --------------- | ------------------------------------ |
+| Ildeberto Vasconcelos | @ildysilva     | Mobile, Flutter | [Link](https://www.youtube.com/@ildebertov) |
+
+#### L
+
+| Name          | Author            | Topics                             | Link                                              |
+| --------------| ----------------- | ---------------------------------- | ------------------------------------------------- |
+| Lázaro Manuel | @lazaromanuel3271 | Software Engineer, Web Development | [Link](https://www.youtube.com/@lazaromanuel3271) |
 
 #### P
 
