@@ -83,6 +83,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 #### B
 
 | Name          | Author        | Topics | Link                                         |
+| ------------- | ------------- | ------ | -------------------------------------------- |
 | Celson Paixão | @celsonpaixa0 | Mobile | [Link](http://www.youtube.com/@celsonpaixa0) |
 
 ### I
