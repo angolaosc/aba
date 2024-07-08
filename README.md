@@ -80,11 +80,17 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | AOSC Channel      | @angolaosc       | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
 | Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
 
-#### B
+#### C
 
 | Name          | Author        | Topics | Link                                         |
 | ------------- | ------------- | ------ | -------------------------------------------- |
 | Celson Paixão | @celsonpaixa0 | Mobile | [Link](http://www.youtube.com/@celsonpaixa0) |
+
+#### F
+
+| Name           | Author         | Topics                  | Link                                   |
+| -------------- | -------------- | ----------------------- | -------------------------------------- |
+| Freddy Danilo  | @FreddyDanilo  | Mobile, Web Development | [Link](www.youtube.com/@FreddyDanilo)  |
 
 ### I
 | Name                  | Author         | Topics          | Link                                 |
@@ -102,6 +108,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name           | Author         | Topics          | Link                                           |
 | -------------- | -------------- | --------------- | ---------------------------------------------- |
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://www.youtube.com/@pedromassango) |
+
+
 
 ### Newsletters
 
