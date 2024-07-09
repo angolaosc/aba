@@ -31,6 +31,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 - [Podcasts](#podcasts)
   - [A](#a-3)
   - [B](#b-3)
+- [Websites](#websites)
+  - [O](#o-1)
 - [Forums](#forums)
 
 ### Blogs
@@ -40,7 +42,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name           | Author     | Topics                                         | Link                             |
 | -------------- | ---------- | ---------------------------------------------- | -------------------------------- |
 | AOSC Blog      | @angolaosc | Open Source, Community                         | [Link](https://blog.aosc.social) |
-| ---            | ---        | ---                                            | ---                              |
 | Alexandre Juca | @AlexJuca  | Systems, Software Development, AI, Open Source | [Link](https://0xffa4.com)       |
 
 #### B
@@ -132,6 +133,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name | Author | Topics | Link |
 | ---- | ------ | ------ | ---- |
+
+### Websites
+
+#### O
+
+| Author          | Topics          | Link                         |
+| --------------- | --------------- | ---------------------------- |
+| Otoniel Emanuel | Portfólio, blog | [Link](https://eotiniel.com) |
 
 ### Forums
 
