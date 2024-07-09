@@ -86,6 +86,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | ------------- | ------------- | ------ | -------------------------------------------- |
 | Celson Paixão | @celsonpaixa0 | Mobile | [Link](http://www.youtube.com/@celsonpaixa0) |
 
+#### F
+
+| Name           | Author         | Topics                  | Link                                   |
+| -------------- | -------------- | ----------------------- | -------------------------------------- |
+| Freddy Danilo  | @FreddyDanilo  | Mobile, Web Development | [Link](www.youtube.com/@FreddyDanilo)  |
+
 ### I
 | Name                  | Author         | Topics          | Link                                 |
 | --------------------- | -------------- | --------------- | ------------------------------------ |
