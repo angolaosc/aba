@@ -39,7 +39,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 | Name           | Author     | Topics                                         | Link                             |
 | -------------- | ---------- | ---------------------------------------------- | -------------------------------- |
-| AOSC Blog      | @angolaosc | Open Source, Community                         | [Link](https://blog.aosc.social) |
+| AOSC Blog      | @angolaosc | Open Source, Community                         | [Link](https://blog.angolaosc.org) |
 | ---            | ---        | ---                                            | ---                              |
 | Alexandre Juca | @AlexJuca  | Systems, Software Development, AI, Open Source | [Link](https://0xffa4.com)       |
 
