@@ -37,16 +37,19 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 #### A
 
-| Name           | Author     | Topics                                         | Link                             |
-| -------------- | ---------- | ---------------------------------------------- | -------------------------------- |
-| AOSC Blog      | @angolaosc | Open Source, Community                         | [Link](https://blog.angolaosc.org) |
-| ---            | ---        | ---                                            | ---                              |
-| Alexandre Juca | @AlexJuca  | Systems, Software Development, AI, Open Source | [Link](https://0xffa4.com)       |
+| Name               | Author        | Topics                                         | Link                                     | 
+| ------------------ | ------------- | ---------------------------------------------- | ---------------------------------- ----- |
+| AOSC Blog          | @angolaosc    | Open Source, Community                         | [Link](https://blog.angolaosc.org)       |  
+| ---                | ---           | ---                                            | ---                                      |
+| Alexandre Juca     | @AlexJuca     | Systems, Software Development, AI, Open Source | [Link](https://0xffa4.com)               |
+
 
 #### B
 
-| Name | Author | Topics | Link |
-| ---- | ------ | ------ | ---- |
+| Name               | Author        | Topics                    | Link                                     |
+| ------------------ | ------------- | ------------------------- | ---------------------------------------- |
+| Blog Angola Cables | @angolacables | Systems, Telecomunications| [Link](https://angolacables.co.ao/blog/) |
+
 
 #### C
 
@@ -80,7 +83,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | AOSC Channel      | @angolaosc       | Open Source, Community                         | [Link](https://www.youtube.com/@angolaosc) |
 | Antonio Developer | @antonio-pedro99 | Computer Science, Mobile, Android, Open Source | [Link](https://www.youtube.com/@antdev010) |
 
-#### B
+#### C
 
 | Name          | Author        | Topics | Link                                         |
 | ------------- | ------------- | ------ | -------------------------------------------- |
@@ -93,9 +96,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Freddy Danilo  | @FreddyDanilo  | Mobile, Web Development | [Link](www.youtube.com/@FreddyDanilo)  |
 
 ### I
-| Name                  | Author         | Topics          | Link                                 |
-| --------------------- | -------------- | --------------- | ------------------------------------ |
-| Ildeberto Vasconcelos | @ildysilva     | Mobile, Flutter | [Link](https://www.youtube.com/@ildebertov) |
+| Name                  | Author             | Topics                                             | Link                                              |
+| --------------------- | ------------------ | -------------------------------------------------- | ------------------------------------------------- |
+| Ildeberto Vasconcelos | @ildysilva         | Mobile, Flutter                                    | [Link](https://www.youtube.com/@ildebertov)       |
+| Inocêncio Cordeiro    | @inocenciocordeiro | Mercade de Programação, Desenvolvimento de software| [Link](https://www.youtube.com/@inocenciocordeiro |
+
 
 #### L
 
@@ -103,11 +108,18 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | --------------| ----------------- | ---------------------------------- | ------------------------------------------------- |
 | Lázaro Manuel | @lazaromanuel3271 | Software Engineer, Web Development | [Link](https://www.youtube.com/@lazaromanuel3271) |
 
+#### M
+
+| Name          | Author        | Topics                                          | Link                                                 |
+| --------------| ------------- | ----------------------------------------------- | ---------------------------------------------------- |
+| Milton Malavo | @miltonmalavo | Desenvolvimento de software, Microcontroladores | [Link](https://www.youtube.com/@miltonmalavo/videos) |
+
 #### P
 
-| Name           | Author         | Topics          | Link                                           |
-| -------------- | -------------- | --------------- | ---------------------------------------------- |
-| Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://www.youtube.com/@pedromassango) |
+| Name           | Author         | Topics                                             | Link                                           |
+| -------------- | -------------- | -------------------------------------------------- | ---------------------------------------------- |
+| Pedro Massango | @pedromassango | Mobile, Flutter                                    | [Link](https://www.youtube.com/@pedromassango) |
+| Programador AO | @programadorao | Lógica de programação, Desenvolvimento de sistemas | [Link](https://www.youtube.com/@programadorao) |
 
 ### Newsletters
 
@@ -135,8 +147,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 ### Forums
 
-| Name | Author | Topics | Link |
-| ---- | ------ | ------ | ---- |
+| Name    | Author   | Topics | Link                            |
+| Angotic | MIINTICS |  ICT   | [Link](https://www.angotic.ao)  |
 
 ## License
 
