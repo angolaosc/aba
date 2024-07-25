@@ -147,8 +147,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 
 ### Forums
 
-| Name    | Author   | Topics | Link                            |
-| Angotic | MIINTICS |  ICT   | [Link](https://www.angotic.ao)  |
+
+| Name | Author | Topics | Link |
+| ---- | ------ | ------ | ---- |
+| Angotic    | MIINTICS   | ICT | [Link](https://www.angotic.ao) |
+
 
 ## License
 
