@@ -99,7 +99,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name                  | Author             | Topics                                             | Link                                              |
 | --------------------- | ------------------ | -------------------------------------------------- | ------------------------------------------------- |
 | Ildeberto Vasconcelos | @ildysilva         | Mobile, Flutter                                    | [Link](https://www.youtube.com/@ildebertov)       |
-| Inocêncio Cordeiro    | @inocenciocordeiro | Mercade de Programação, Desenvolvimento de software| [Link](https://www.youtube.com/@inocenciocordeiro |
+| Inocêncio Cordeiro    | @inocenciocordeiro | Mercade de Programação, Desenvolvimento de software| [Link](https://www.youtube.com/@inocenciocordeiro) |
 
 
 #### L
