@@ -25,6 +25,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [A](#a-1)
   - [B](#b-1)
   - [P](#p-1)
+  - [W](#w)
 - [Newsletters](#newsletters)
   - [A](#a-2)
   - [B](#b-2)
@@ -108,6 +109,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
 | Name           | Author         | Topics          | Link                                           |
 | -------------- | -------------- | --------------- | ---------------------------------------------- |
 | Pedro Massango | @pedromassango | Mobile, Flutter | [Link](https://www.youtube.com/@pedromassango) |
+
+#### W
+
+| Name           | Author         | Topics                   | Link                                         |
+| -------------- | -------------- | ------------------------ | -------------------------------------------- |
+| Walt de Jesus  | @waltdejesus   |  UX, UI, Product Design. | [Link](https://www.youtube.com/@waltdejesus) |
 
 ### Newsletters
 
