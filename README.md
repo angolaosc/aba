@@ -25,7 +25,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to contribu
   - [A](#a-1)
   - [B](#b-1)
   - [P](#p-1)
-  - [W](#w-1)
+  - [W](#w)
 - [Newsletters](#newsletters)
   - [A](#a-2)
   - [B](#b-2)
